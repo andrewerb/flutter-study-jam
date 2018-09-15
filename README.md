@@ -1,6 +1,10 @@
 # GDG NYC Flutter Study Jam
 
-*[Flutter Study Jam](https://www.meetup.com/gdgnyc/events/244123982/)* is a 3-week 2018 learning hackathon for *[Flutter](flutter.io)*, Google’s mobile app SDK. The Study Jam is run by [Google Developer Group (GDG) NYC](https://www.meetup.com/gdgnyc/). This repo is to a space for resources, lessons, notes, as well as my own work, progress, and submissions.
+*[Flutter Study Jam](https://www.meetup.com/gdgnyc/events/244123982/)* is a 3-week 2018 learning hackathon for *[Flutter](flutter.io)*, a mobile app development SDK in Dart from Google.
+
+The Study Jam is run by [Google Developer Group (GDG) NYC](https://www.meetup.com/gdgnyc/).
+
+This repo is to a space for resources, lessons, notes, as well as my own work, progress, and submissions.
 
 ## Overview
 
@@ -24,11 +28,10 @@
 - [flutter.io - Tutorials](https://flutter.io/tutorials/)
 - [Google Flutter Codelabs](https://codelabs.developers.google.com/?cat=Flutter)
 - [@flutterfyi](https://twitter.com/flutterfyi)
-http://www.flutter.fyi/ - Guide & Resources
-https://www.meetup.com/flutter-nyc/
-https://twitter.com/Flutter_Flakes
-https://fluttercrashcourse.com/
-https://medium.com/@seenickcode/fluttercrashcourse-com-f45cd93113ab
+- http://www.flutter.fyi/ - Guide & Resources
+- https://www.meetup.com/flutter-nyc/
+- https://twitter.com/Flutter_Flakes
+- [Flutter Crash Course](https://fluttercrashcourse.com/) by [Nick Manning](https://medium.com/@seenickcode/fluttercrashcourse-com-f45cd93113ab)
 
 <!--
 ## Completed Works / Submitted materials
