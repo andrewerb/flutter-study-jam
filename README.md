@@ -10,3 +10,11 @@
 )
 - Tutorial 
 - [Codelabs](https://codelabs.developers.google.com/?cat=Flutter/)
+
+## Flutter Resources
+Flutter.io
+Flutter.io - Installation: https://flutter.io/get-started/install/
+
+https://twitter.com/flutterfyi
+http://www.flutter.fyi/ - Guide & Resources
+https://www.meetup.com/flutter-nyc/
