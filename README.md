@@ -1,15 +1,13 @@
-# GDG NYC Flutter Study Jam
+# GDG-NYC Flutter Study Jam
 
-*[Flutter Study Jam](https://www.meetup.com/gdgnyc/events/244123982/)* is a 3-week 2018 learning hackathon for *[Flutter](flutter.io)*, a mobile app development SDK in Dart from Google.
+*[Flutter Study Jam](https://www.meetup.com/gdgnyc/events/244123982/)* is a 3-week 2018 learning hackathon for *[Flutter](http://flutter.io)*, a mobile app development SDK in Dart from Google.
 
-The Study Jam is run by [Google Developer Group (GDG) NYC](https://www.meetup.com/gdgnyc/).
-
-This repo is to a space for resources, lessons, notes, as well as my own work, progress, and submissions.
+The Study Jam is run by [Google Developer Group (GDG) NYC](https://www.meetup.com/gdgnyc/). This repo is to a space for resources, lessons, notes, as well as my own work, progress, and submissions.
 
 ## Overview
 
-- Kickoff: September 10
-- Showcase: October 1
+- Kickoff: September 10, 2018
+- Showcase: October 1, 2018
 - [flutter.io Introductory Tutorials](https://flutter.io/tutorials/)
 - Google Flutter Codelabs: Write Your First Flutter App- [Part 1](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/index.html), [Part 2](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/index.html)
 - [Flutter Google/Udacity Course](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
@@ -24,6 +22,7 @@ This repo is to a space for resources, lessons, notes, as well as my own work, p
 ## Flutter Resources
 
 - [flutter.io](https://flutter.io)
+- [dartlang.org](https://www.dartlang.org/)
 - [flutter.io - Installation](https://flutter.io/get-started/install/)
 - [flutter.io - Tutorials](https://flutter.io/tutorials/)
 - [Google Flutter Codelabs](https://codelabs.developers.google.com/?cat=Flutter)
